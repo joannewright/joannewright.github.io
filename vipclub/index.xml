@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VIP Club on Joanne Wright</title>
+    <link>https://www.joannewrightart.com/vipclub/</link>
+    <description>Recent content in VIP Club on Joanne Wright</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.joannewrightart.com/vipclub/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VIP Club</title>
+      <link>https://www.joannewrightart.com/vipclub/vip/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>https://www.joannewrightart.com/vipclub/vip/</guid>
+      <description>VIP Club</description>
+    </item>
+    
+  </channel>
+</rss>
